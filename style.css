@@ -202,5 +202,6 @@ h2, p {
 }
 .btn-recover:hover {
     transition: all 0.6s ease-in-out;
-    background: rga(255, 255, 255, 0.1);
+    background-color: rga(255, 255, 255, 0.1);
 }
+
